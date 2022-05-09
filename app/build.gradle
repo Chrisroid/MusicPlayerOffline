@@ -58,4 +58,6 @@ dependencies {
 
     //for circular seekbar --> volume controls
     implementation 'com.github.lukelorusso:VerticalSeekBar:1.2.7'
+    //for swipe refresh layout
+    implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.1.0'
 }
