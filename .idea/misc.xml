@@ -4,15 +4,24 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MusicPlayerOffline/app/src/main/res/drawable/about_icon.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MusicPlayerOffline/app/src/main/res/drawable/arrow_back.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MusicPlayerOffline/app/src/main/res/drawable/back_btn.xml" value="0.1705" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MusicPlayerOffline/app/src/main/res/drawable/custom_search_view.xml" value="0.1705" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MusicPlayerOffline/app/src/main/res/drawable/exit_icon.xml" value="0.123" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MusicPlayerOffline/app/src/main/res/drawable/favorite_border.xml" value="0.153" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MusicPlayerOffline/app/src/main/res/drawable/favourite_icon.xml" value="0.123" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MusicPlayerOffline/app/src/main/res/drawable/feedback_icon.xml" value="0.123" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MusicPlayerOffline/app/src/main/res/drawable/music_icon.xml" value="0.1" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MusicPlayerOffline/app/src/main/res/drawable/play_next_icon.xml" value="0.123" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MusicPlayerOffline/app/src/main/res/drawable/playlist_icon.xml" value="0.123" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MusicPlayerOffline/app/src/main/res/drawable/settings_icon.xml" value="0.123" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MusicPlayerOffline/app/src/main/res/drawable/shuffle_icon.xml" value="0.123" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MusicPlayerOffline/app/src/main/res/layout/activity_favourite.xml" value="0.1" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MusicPlayerOffline/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MusicPlayerOffline/app/src/main/res/layout/activity_player.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MusicPlayerOffline/app/src/main/res/layout/activity_selection.xml" value="0.22" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MusicPlayerOffline/app/src/main/res/layout/fragment_now_playing.xml" value="0.1716485507246377" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MusicPlayerOffline/app/src/main/res/layout/music_view.xml" value="0.22" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MusicPlayerOffline/app/src/main/res/layout/nav_header.xml" value="0.33" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MusicPlayerOffline/app/src/main/res/menu/nav_menu.xml" value="0.1" />
       </map>
